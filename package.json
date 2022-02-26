@@ -1,0 +1,22 @@
+{
+  "name": "amiral-ariska-quiz",
+  "version": "0.0.1",
+  "description": "Amiral Ariska Quiz created by chalk, chalk-color-style-quiz, gradient-string and inquirer",
+  "main": "amiralariskaquiz.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiralariska/amiral-ariska-quiz.git"
+  },
+  "keywords": [
+    "amiral-ariska-quiz",
+    "inquier",
+    "chalk-color-style-quiz",
+    "chalk",
+    "gradient-string"
+  ],
+  "author": "Amiral Ariska",
+  "bugs": {
+    "url": "https://github.com/amiralariska/amiral-ariska-quiz/issues"
+  },
+  "homepage": "https://github.com/amiralariska/amiral-ariska-quiz#readme"
+}
