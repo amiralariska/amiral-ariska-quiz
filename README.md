@@ -4,4 +4,4 @@ Amiral Ariska Quiz is a quiz for chalk, chalk-color-style-quiz, gradient-string 
 # Install
 `npm install amiral-ariska-quiz`
 # Run
-`amiral-ariska-quiz`
+`amiralariskaquiz`
