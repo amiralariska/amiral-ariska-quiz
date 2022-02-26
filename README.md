@@ -1,7 +1,7 @@
-# Amiral Ariska Form
-Amiral Ariska Form created by chalk, chalk-color-style-form and inquirer<br>
-Amiral Ariska Form is a form for chalk, chalk-color-style-form, gradient-string and inquirer
+# Amiral Ariska Quiz
+Amiral Ariska Quiz created by chalk, chalk-color-style-quiz, gradient-string and inquirer<br>
+Amiral Ariska Quiz is a quiz for chalk, chalk-color-style-quiz, gradient-string and inquirer
 # Install
-`npm install amiral-ariska-form`
+`npm install amiral-ariska-quiz`
 # Run
-`amiral-ariska-form`
+`amiral-ariska-quiz`
