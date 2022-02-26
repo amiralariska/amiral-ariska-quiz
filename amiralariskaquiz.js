@@ -36,7 +36,7 @@ var form = inquirer.prompt([
     },
     {
         name: 'password',
-        message: 'please insert password to continue:',
+        message: 'please enter password to continue:',
         type: 'input',
         default() {
             return password;
