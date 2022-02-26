@@ -54,7 +54,7 @@ var form = inquirer.prompt([
     }
 ]).then(() => {
     if (form) {
-        chalkcolor.custom(`${chalkcolor.varcompleted()} ${chalk.hex('#0f0')('Your form has successfully submitted')}`)
+        chalkcolor.custom(`${chalkcolor.varcompleted()} ${chalk.hex('#0f0')('Your quiz has successfully submitted')}`)
     }
 });
 inquirer.registerPrompt("date", require("inquirer-date-prompt"));
