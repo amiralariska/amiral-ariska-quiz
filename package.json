@@ -6,7 +6,7 @@
   "bin": "./amiralariskaquiz.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amiralariska/amiral-ariska-quiz.git"
+    "url": "https://github.com/amiralariska/amiral-ariska-quiz.git"
   },
   "keywords": [
     "amiral-ariska-quiz",
