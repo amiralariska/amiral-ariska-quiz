@@ -49,7 +49,7 @@ var form = inquirer.prompt([
     },
     {
         name: 'confirm yes',
-        message: 'do you want to submit',
+        message: 'are you sure! do you want to submit',
         type: 'confirm'
     }
 ]).then(() => {
