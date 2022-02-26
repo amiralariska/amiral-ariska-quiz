@@ -4,7 +4,7 @@ var gradient = require('gradient-string');
 var inquirer = require('inquirer');
 const chalkcolor = require('chalk-color-style-quiz');
 
-var welcome = gradient('blue', 'cyan')('Welcome to Amiral Ariska Form');
+var welcome = gradient('blue', 'cyan')('Welcome to Amiral Ariska Quiz');
 console.log(welcome);
 
 var password = 'CodeAmiral';
