@@ -1,6 +1,6 @@
 {
   "name": "amiralariskaquiz",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Amiral Ariska Quiz created by chalk, chalk-color-style-quiz, gradient-string, inquirer and inquirer-date-prompt",
   "main": "amiral-ariska-quiz.js",
   "bin": "amiral-ariska-quiz.js",
