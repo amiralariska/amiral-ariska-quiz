@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Amiral Ariska Quiz created by chalk, chalk-color-style-quiz, gradient-string, inquirer and inquirer-date-prompt",
   "main": "amiral-ariska-quiz.js",
-  "bin": "./amiral-ariska-quiz.js",
+  "bin": "amiral-ariska-quiz.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/amiralariska/amiral-ariska-quiz.git"
