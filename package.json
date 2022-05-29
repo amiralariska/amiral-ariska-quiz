@@ -3,9 +3,7 @@
   "version": "0.0.3",
   "description": "Amiral Ariska Quiz created by chalk, chalk-color-style-quiz, gradient-string, inquirer and inquirer-date-prompt",
   "main": "amiral-ariska-quiz.js",
-  "bin": {
-    "amiralariskaquiz": "amiral-ariska-quiz.js"
-  },
+  "bin": "./amiral-ariska-quiz.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/amiralariska/amiral-ariska-quiz.git"
@@ -25,7 +23,7 @@
   "homepage": "https://github.com/amiralariska/amiral-ariska-quiz#readme",
   "dependencies": {
     "chalk": "^4.1.1",
-    "chalk-color-style-quiz": "^0.1.0",
+    "chalk-color-style-quiz": "^0.1.4",
     "gradient-string": "^2.0.0",
     "inquirer": "^8.2.0",
     "inquirer-date-prompt": "^2.0.1"

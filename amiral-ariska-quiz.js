@@ -2,7 +2,7 @@
 var chalk = require('chalk');
 var gradient = require('gradient-string');
 var inquirer = require('inquirer');
-const chalkcolor = require('chalk-color-style-quiz');
+const chalkcolorquiz = require('chalk-color-style-quiz');
 
 var welcome = gradient('blue', 'cyan')('Welcome to Amiral Ariska Quiz');
 console.log(welcome);
@@ -49,12 +49,12 @@ var form = inquirer.prompt([
     },
     {
         name: 'confirm yes',
-        message: 'are you sure! do you want to submit',
+        message: 'Are you sure! do you want to submit',
         type: 'confirm'
     }
 ]).then(() => {
     if (form) {
-        chalkcolor.custom(`${chalkcolor.varcompleted()} ${chalk.hex('#0f0')('Your quiz has successfully submitted')}`)
+        chalkcolorquiz.log(`${chalkcolorquiz.blankcompleted()} ${chalk.hex('#0f0')('Your quiz has successfully submitted')}`)
     }
 });
 inquirer.registerPrompt("date", require("inquirer-date-prompt"));
